@@ -1,6 +1,5 @@
 --[[
      ~ wod shop abuse • World Of Dota abuse
-     ~ t.me/windguild ~ via jon.kaus, rou, qfun
 ]]
 
 local wod = {}
