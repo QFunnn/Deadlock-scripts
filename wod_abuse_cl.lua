@@ -1,5 +1,7 @@
 --[[
      ~ wod shop abuse • World Of Dota abuse
+     ~ preview: https://www.youtube.com/watch?v=Tk9vNOxjWuI
+     ~ status: patched, bcs: https://i.imgur.com/VEZdcBK.png
 ]]
 
 local wod = {}
